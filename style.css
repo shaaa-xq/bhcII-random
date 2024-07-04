@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.title-container {
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+}
+.container {
+  border: 1px solid black;
+}
+.result-container {
+  /* border: 1px solid black; */
+  height: 30px;
+}
